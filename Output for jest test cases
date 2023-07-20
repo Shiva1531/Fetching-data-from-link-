@@ -1,0 +1,6 @@
+ PASS  src/app/test/pass_checker/doubles/fetchDataFromAPI.test.ts (7.077 s)
+  fetchDataFromAPI                                                                                                                         
+    √ should fetch data from the API successfully (967 ms)                                                                                 
+    √ should contain specific properties in the fetched data (634 ms)                                                                      
+    √ should have a valid price in the fetched data (654 ms)                                                                               
+    √ should handle API errors gracefully (49 ms)   
